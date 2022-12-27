@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rick and Morty</string>
+    <string name="refresh">refresh</string>
+    <string name="status_and_race">%1$s - %2$s</string>
+</resources>
